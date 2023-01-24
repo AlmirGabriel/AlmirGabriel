@@ -25,8 +25,8 @@
 <div>
 <h1></h1>
 <a href="https//beacons.ai/AlmirGabriel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmirGabriel&show_icons=true&theme=outrun"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirGabriel&layout=compact&theme=outrun"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlmirGabriel&show_icons=true&theme=outrun"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirGabriel&layout=compact&theme=outrun"/>
 </div>
 
 ## Total profile visits :detective: <img alingn="center" src="https://profile-counter.glitch.me/AlmirGabriel/count.svg" />
