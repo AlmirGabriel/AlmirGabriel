@@ -10,6 +10,8 @@
 <a href="https://www.instagram.com/_almir_gabriel_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:almir.gabriel.andrade@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/almir-gabriel-andrade-82377b25a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ <br><br>
+  <img alingn="center" src="https://komarev.com/ghpvc/?username=AlmirGabriel&style=for-the-badge&label=Total+profile+visits&color=red"/>
  </div>
  
 <div style="display: inline_block"><br>
@@ -30,5 +32,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlmirGabriel&show_icons=true&theme=outrun"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirGabriel&layout=compact&theme=outrun"/>
 </div>
-
-## Total profile visits :detective: <img alingn="center" src="https://profile-counter.glitch.me/AlmirGabriel/count.svg" />
