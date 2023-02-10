@@ -26,7 +26,7 @@
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div>
+<div align="center">
 <h1></h1>
 <a href="https//beacons.ai/AlmirGabriel">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlmirGabriel&show_icons=true&theme=outrun"/>
