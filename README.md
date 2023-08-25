@@ -21,11 +21,15 @@
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a target="_blank" href="https://git-scm.com/"><img align="center" alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+  <a target="_blank" href="https://nodejs.org/en/docs/"><img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+</div>
 
 <div>
 <h1>I'm studying</h1>
    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <a target="_blank" href="https://nodejs.org/en/docs/"><img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+</div>
+   <a target="_blank" href="https://angular.io/"><img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
 </div>
 
 <div align="center">
