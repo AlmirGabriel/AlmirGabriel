@@ -15,7 +15,7 @@
  </div>
  
 <div style="display: inline_block"><br>
-<h1>My Skills</h1>
+<h1 display="flex">My Skills</h1>
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,11 +25,13 @@
 </div>
 
 <div>
-<h1>I'm studying</h1>
+<h1 display="inline-block">I'm studying</h1>
    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <a target="_blank" href="https://nodejs.org/en/docs/"><img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 </div>
    <a target="_blank" href="https://angular.io/"><img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
+</div>
+<a target="_blank" href="https://www.typescriptlang.org/"><img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
 </div>
 
 <div align="center">
